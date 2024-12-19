@@ -1,0 +1,161 @@
+.nav{
+    height: 80px;
+    background-color: whitesmoke;
+    border-bottom: 5px black solid;
+   
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+    margin-left:20px;
+    font-size: bold;
+    padding-top:20px ;
+    display: inline-block;
+}
+a:hover{
+    border-bottom:1px solid #000 ;
+}
+#logo{
+    display: inline-block;
+    font-size:30px;
+    cursor: pointer;
+    margin-left: 260px;
+    
+}
+#shop{
+    display: inline-block;
+    margin-left: 350px;
+    width: 100px;
+   border: 1px solid #000;
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px ;
+    padding-bottom: 5px;
+    cursor: pointer;
+    
+}
+#new-product{
+    display: inline-block;
+    margin-left: 50px;
+}
+h1{
+    margin-left: 50px;
+}
+p{
+   text-align: center;
+}
+#about-me{
+    display: inline-block;
+    margin-left: 50px;
+    position: relative;
+    top: -200px;
+    text-align: center;
+    font-size: 25px;
+}
+#about{
+    display: inline-block;
+    margin-left: 50px;
+
+}
+#button{
+    color: white;
+    background-color:rgb(95, 151, 95);
+    width: 100px;
+    height: 50px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+}
+h3{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 25px;
+    position: relative;
+    top: 40px;
+
+}
+#comment{
+    border: none;
+    height: 80px;
+    width: 300px;
+    margin-left: 50px;
+
+}
+.form{
+    width: 900px;
+    height: 500px;
+    background-color: whitesmoke;
+    margin-left: 200px;
+}
+input{
+    border: none;
+    height: 40px;
+    width: 300px;
+    margin-left: 50px;
+}
+#submit{
+    width: 100px;
+    border: none;
+    height: 30px;
+    color: #fff;
+    margin-left: 50px;
+    background-color: rgb(97, 129, 97);
+}
+#contact-pic{
+    display: inline-block;
+    margin-left: 60px;
+    
+}
+form{
+    display: inline-block;
+}
+
+#bag{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+#bag:hover{
+    opacity: 1;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.507);
+    z-index: 1;
+}
+
+h4{
+    text-align: center;
+    font-size: 30px;
+}
+footer{
+    height: 100px;
+    background-color: rgb(51, 51, 51);
+    color:white;
+}
+strong{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo1{
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.logo2{
+    display: inline-block;
+    margin-left: 30px;
+}
+.logo3{
+    display: inline-block;
+    margin-left: 150px;
+}
+#icon{
+    margin-left: 30px;
+    text-decoration: none;
+    color: #fff;
+}
+
+
